@@ -6,10 +6,6 @@ Test exercise project template.
 
 Please download the project template. Project contains AppointmentService.swift which returns list of upcoming and past appointments. Please develop the UI as shown to show those appointment data.
 
-## Expected output
-
-![alt text](https://github.com/asthma-nemours/Test-Project/blob/master/Resources/Design.png)
-
 ## Exercise work should demonstrate:
 
 * Clean and readable code
@@ -19,4 +15,10 @@ Please download the project template. Project contains AppointmentService.swift 
 * Error free auto layout design
 * Reusability component/code where it makes sense
 * Use of swift 3 or above
+
+## Expected output
+
+![alt text](https://github.com/asthma-nemours/Test-Project/blob/master/Resources/Design.png)
+
+
 
