@@ -4,7 +4,14 @@ Test exercise project template.
 
 ## Getting Started
 
-Please download the project template. Project contains AppointmentService.swift which returns list of upcoming and past appointments. Please develop the UI as shown to show those appointment data.
+Please download the project template. Project contains AppointmentService.swift which returns list of upcoming and past appointments. 
+
+## Requirements
+
+* Please design UI as shown below
+* By default it should show Asthma only appointments for both Upcoming and Past visits
+* It should show all appointments if all-types is clicked in the filter (asthma-only vs all-types)
+* Appointment cells should be designed to be reused later
 
 ## Exercise work should demonstrate:
 
