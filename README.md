@@ -10,5 +10,7 @@ Please download the project template. Project contains AppointmentService.swift 
 
 * Clean and readable code
 * UI should adapt to both landscape and portrait mode
-* Try to reuse component/code where it makes sense
-* Use swift 3 or above
+* Use of size classes
+* Error free auto layout design
+* Reusability component/code where it makes sense
+* Use of swift 3 or above
