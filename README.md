@@ -4,7 +4,7 @@ Test exercise project template.
 
 ## Getting Started
 
-Please download the project template. Project contains AppointmentService.swift which returns list of upcoming and past appointments. 
+Please download the project template. Project contains AppointmentService.swift which returns list of upcoming and past appointments. Find all required images in the Resources folder.
 
 ## Requirements
 
@@ -21,7 +21,7 @@ Please download the project template. Project contains AppointmentService.swift 
 * Error free auto layout design
 * Reusability component/code where it makes sense
 * Use of swift 3 or above
-* Exact match of colors not necessary
+* Exact match of colors or fonts not necessary
 
 ## Expected output
 
