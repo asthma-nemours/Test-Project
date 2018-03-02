@@ -13,6 +13,7 @@ Please download the project template. Project contains AppointmentService.swift 
 * It should show all appointments if all-types is clicked in the filter (asthma-only vs all-types)
 * Appointment cells should be designed to be reused later
 * asthma-only vs all-types filter should be designed to be reused later
+* Use url https://photo.nemours.org/P/(ProviderID)/100x100?type=P to retrieve provider image
 
 ## Exercise work should demonstrate:
 
